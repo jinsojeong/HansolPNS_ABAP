@@ -1,11 +1,11 @@
 # 👩🏻‍💻 HansolPNS_ABAP
 드림버스컴퍼니 : 한솔PNS_IT(SAP) 업무 ABAP 코드 Review
-SAP S/4HANA 기반의 ABAP 프로그램 모음입니다.
 
 ---
 
 ## 📁 디렉토리 구조
 
+SAP S/4HANA 기반의 ABAP 프로그램 모음입니다.
 각 디렉토리는 ABAP 프로그램 단위로 구성되어 있으며, 해당 프로그램에는 Screen, Include, Function Module, Dictionary 객체들이 포함되어 있습니다.
 
 ```
